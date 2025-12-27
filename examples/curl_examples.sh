@@ -66,3 +66,4 @@ echo "Swagger UI: ${BASE_URL}/docs"
 echo "ReDoc: ${BASE_URL}/redoc"
 echo ""
 
+
